@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onur
-- 👀 I’m interested in Cyber Securty
+- 👀 I’m interested in Cyber Securty,Software Development
 - 🌱 I’m currently learning Cyber Securty
 <!---
 onurvuran/onurvuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
